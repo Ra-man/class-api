@@ -5,6 +5,4 @@ export class AppService {
   getHealth(): string {
     return 'API is online!'
   }
-
-  //getResources()
 }
